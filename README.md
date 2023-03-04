@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jebarsonponraj&icon=fire&color=9)
+![](https://visitcount.itsvg.in/api?id=jebarsonponraj&icon=fire&color=9)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
