@@ -1,4 +1,4 @@
-### Hi there 👋 I
+### Hi there 👋 
 
 <!--
 **jebarsonponraj/jebarsonponraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-![](https://visitcount.itsvg.in/api?id=jebarsonponraj&icon=fire&color=9)
+![]<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=jebarsonponraj&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
