@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jebarsonponraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Snake animation](https://github.com/jebarsonponraj/jebarsonponraj/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jebarsonponraj/jebarsonponraj/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jebarsonponraj/jebarsonponraj/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jebarsonponraj&icon=0&color=0)](https://visitcount.itsvg.in)
