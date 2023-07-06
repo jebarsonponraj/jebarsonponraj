@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Self Taught Front-end Developer<br>🔭 I’m currently working on Front-end Projects<br>👯 I’m looking to collaborate on React-based projects<br>🌱 I’m currently learning React<br>💬 Content Creator on Twitter and Instagram<br>🌐 Visit https://jebarsonponraj.me/<br>📫 Reach me @jebarsonponraj@gmail.com
+👀 The One Christ Loves 💝<br>🧑🏻‍💻 Self Taught Front-end Developer<br>🔭 I’m currently working on Front-end Projects<br>👯 I’m looking to collaborate on React-based projects<br>🌱 I’m currently learning React<br>💬 Content Creator on Twitter and Instagram<br>🌐 Visit https://jebarsonponraj.me/<br>📫 Reach me @jebarsonponraj@gmail.com
 
 
 ## 🌐 Socials:
