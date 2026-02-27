@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 The One Christ Loves 💝<br>🧑🏻‍💻 Self Taught Front-end Developer<br>🌐 Visit https://jebarsonponraj.me/<br>📫 Reach me @jebarsonponraj@gmail.com
+👀 The One Christ Loves 💝<br>🧑🏻‍💻 Self Taught Front-end Developer<br>🌐 Visit https://jebarson.vercel.app /<br>📫 Reach me @jebarsonponraj@gmail.com
 
 
 ## 🌐 Socials:
